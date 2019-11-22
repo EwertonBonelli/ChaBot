@@ -1,0 +1,6 @@
+﻿você sabe python?
+estou aprendendo.
+Qual IDE você usa para programar com python.
+VS Code.
+por que?
+Gosto muito de usar ele.
